@@ -1,2 +1,2 @@
 # 清除docker缓存命令：docker system prune -a
-# docker compose启动命令
+# docker compose启动命令：docker compose up -d
